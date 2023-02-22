@@ -1,0 +1,34 @@
+.searchBox{
+    color:black;
+    width: 500px;
+    background-color: rgb(235, 225, 225);
+    border-radius: 2px;
+   
+}
+
+.textlabel{
+    color: black;
+}
+
+.searchbar{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    color: white;
+    top: 80px;
+    right: 500px;
+    color: black;
+    max-width: 640px;
+}
+
+.sr{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: space-around;
+    margin-top: 100px;
+    color: white;
+}
+.srbtn{
+    border-radius: 12px;
+}

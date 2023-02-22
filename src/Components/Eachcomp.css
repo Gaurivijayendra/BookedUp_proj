@@ -1,0 +1,46 @@
+.discover{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: space-around;
+    margin-bottom: 120px;
+}
+
+.detail{
+    
+        display: flex;
+        
+        justify-content: center;
+        border-radius: 10px;
+        max-height: 300px;
+        width: 220px;
+     
+}
+
+
+#ig{
+    display: flex;
+        
+        justify-content: center;
+        border-radius: 10px;
+        height: 275px;
+        width: 230px;
+}
+.discover{
+    display: flex;
+    flex-direction: column;
+    
+}
+.books{
+    display: flex;
+    gap: 22px;
+}
+.genres{
+       display: flex;
+       gap: 30px;
+       margin-left: 90px;
+}
+
+.comp{
+    border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.subtn{
+    background-color: transparent;
+    color: aliceblue;
+    
+}
+
+.subtn:hover{
+    border: 1px solid white;
+}
